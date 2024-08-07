@@ -1,1 +1,3 @@
-Contenido para la rama A
+
+Contenido diferente para la rama B
+
